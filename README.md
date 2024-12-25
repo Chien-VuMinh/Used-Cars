@@ -19,3 +19,6 @@
 ### **Some notices about the project**
 - Because the original data set is too big so we reduce the size of the data from 500.000 to 150.000 for this project
 - This projcet is used only for study and research purposes, not for commercial purpose
+
+### **Meeting Plan**
+[Group meeting plan](https://docs.google.com/spreadsheets/d/14PgkAvbJT5YgEsNxhYu3NGGVtS9i-t9KSed2r9BbRJw/edit?usp=sharing)
